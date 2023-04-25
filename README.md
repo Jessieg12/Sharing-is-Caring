@@ -1,6 +1,6 @@
 # Hello world!
 
-This is some practice code I've made for my blog located [here](https://medium.com/p/3f82449beb83/edit)
+This is some practice code I've made for my blog located [here](https://medium.com/@jessieguzman777/sharing-is-caring-passing-props-from-parent-components-to-children-and-vice-versa-3f82449beb83)
 
 Thank you for taking the time to look at my blog btw!
 
