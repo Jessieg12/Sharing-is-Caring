@@ -1,0 +1,8 @@
+.home{
+    font-size: large;
+    font-weight: bold;
+    border: 5px blue solid;
+    margin: 300px;
+    text-align: center;
+    padding: 10px;
+}
